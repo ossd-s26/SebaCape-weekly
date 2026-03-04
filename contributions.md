@@ -26,4 +26,5 @@ Replace the first row with your own contribution.
 | Feb 10   | [link to my contribution](https://github.com/ossd-s26/tab-down/commit/8345c3fb7c1291b4aa6b53a5cafab270457f726a)   | course open source project | Finished adding documentation for contributors, licensing, conduct, and updated README accordingly    |
 | Feb 16   | [link to my contribution](https://github.com/ossd-s26/tab-down/commit/358ada63b7808e994eda6f091f7b3d5775021b6c)  | course open source project  | Resolution dependent dropdown fixing and cross compatibility for web extension between chrome and firefox  |
 | Feb 27   | [link to my contribution](https://github.com/ossd-s26/project-evaluation/commit/9d37e944e06f9340758e25cdd02a26bacfa0fe16)  | course website  | Fix grammatical errors in template_evaluation.md  |
+| Mar 4   | [link to my contribution](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/issues/23)  | public professional opportunity repository  | Submit Inside HRT externship to list of underclassmen opportunities  |
 
