@@ -27,4 +27,4 @@ Replace the first row with your own contribution.
 | Feb 16   | [link to my contribution](https://github.com/ossd-s26/tab-down/commit/358ada63b7808e994eda6f091f7b3d5775021b6c)  | course open source project  | Resolution dependent dropdown fixing and cross compatibility for web extension between chrome and firefox  |
 | Feb 27   | [link to my contribution](https://github.com/ossd-s26/project-evaluation/commit/9d37e944e06f9340758e25cdd02a26bacfa0fe16)  | course website  | Fix grammatical errors in template_evaluation.md  |
 | Mar 4   | [link to my contribution](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/issues/23)  | public professional opportunity repository  | Submit Inside HRT externship to list of underclassmen opportunities  |
-
+| Mar 10   | [link to my contribution](https://github.com/keycloak/keycloak/discussions/47037)  | Repo feature discussion  | Open github discussion questioning the feasibility of implementing Bcrypt support for Keycloak's password hashing algorithms  |
